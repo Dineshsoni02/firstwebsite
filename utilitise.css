@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+}
+
+.item_center {
+    align-items: center;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.nodeco {
+    text-decoration: none;
+}
